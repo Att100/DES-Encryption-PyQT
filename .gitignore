@@ -1,0 +1,6 @@
+/build
+/dist
+/doc/*.pdf
+/doc/*.docx
+*.spec
+*.ipynb
